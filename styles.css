@@ -1,7 +1,16 @@
 * {
     box-sizing: border-box;
+    font-size: 25px;
 }
 
 .cake {
     text-align: center;
+}
+
+a {
+    background-color: aqua;
+    display: block;
+    padding: 30px;
+    width: 130px;
+    margin: 0 auto;
 }
